@@ -30,3 +30,18 @@ This is a Node.js-based web MVC application designed for an e-commerce platform.
    ```bash
    git clone https://github.com/ishitagit2003/E-Commerce.git
    cd E-Commerce
+   
+2. **Install dependencies:**
+   ```bash
+   npm install
+   
+3. **Configure environment variables:**
+   ```bash
+Create a .env file based on .env.example
+Set up database configurations and other environment variables
+   
+4. **Run the application:**
+   ```bash
+    npm start
+
+   
