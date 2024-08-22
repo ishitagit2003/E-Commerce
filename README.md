@@ -1,4 +1,4 @@
-# E-Commerce Application
+# BurgersCo
 
 ## Overview
 This is a Node.js-based web MVC application designed for an e-commerce platform. It uses MySQL and Express.js to deliver a robust and user-friendly interface for browsing and purchasing products, as well as a comprehensive dashboard for employees to manage products efficiently.
